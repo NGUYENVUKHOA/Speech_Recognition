@@ -1,0 +1,13 @@
+Chay cau lenh duoi o cmd 
+pocketsphinx_continuous.exe  -hmm hmm  -lm tuvung.lm.DMP  -dict tuvung.dic
+Khi xuat hien chu "Ready" hay san sang ( chua noi )
+Khi xuat hien chu "Listening" bat dau noi tu minh muon noi trong bo cac tu duoi day
+<s> CAF PHEE </s>
+<s> KA RAO KE </s>
+<s> KHASCH SAJN </s>
+<s> MAST XA </s>
+<s> TRAJM AY TEEM </s>
+<s> KHOONG </s>
+<s> DDUSNG </s>
+<s> TROWR LAJI </s>
+
